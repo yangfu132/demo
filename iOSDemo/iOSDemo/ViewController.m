@@ -21,7 +21,7 @@
 
 - (void) hello
 {
-    NSLog(@"error!");
+    NSLog(@"error!dev_a");
 }
 
 - (void)didReceiveMemoryWarning {
