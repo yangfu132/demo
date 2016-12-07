@@ -19,6 +19,10 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
+- (void) hello
+{
+    NSLog(@"error!");
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
